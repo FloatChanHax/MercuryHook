@@ -1,2 +1,33 @@
-# MercuryHook
-thanks to onee chan and nullifiedcat &amp;&amp; cathook module base
+# >>> Mercury Hook <<<
+[
+    Thanks[
+      >> Thanks <<
+      Onee Chan
+      NullifiedCat
+      Cathook
+    ]
+    Features[
+        >> Features <<
+        Aimbot[
+          hitscan
+          projectile aimbot
+          head-only
+          body-only
+          ignore-settings
+        ]
+        ESP[
+          player ESP
+          Player Glow
+          Building ESP
+          Building Glow
+        ]
+        Menu Theme[
+          LmaoBox
+          Null Core
+        ]
+      ]
+
+]
+
+
+
